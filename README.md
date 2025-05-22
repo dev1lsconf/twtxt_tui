@@ -52,18 +52,22 @@ twtxt config
 
 ### 3. Descargar la aplicación
 
-bash
+```bash
 git clone https://github.com/dev1lsconf/twtxt_tui.git
+
+```
 
 Configuración Inicial
 
-    Editar configuración de twtxt:
-bash
+Editar configuración de twtxt:
+
+```bash
 
 nano ~/.config/twtxt/config.yml
 
-    Asegurarte de tener al menos:
-yaml
+```
+
+Asegurarte de tener al menos:
 
 nick: tu_usuario
 
@@ -71,11 +75,12 @@ twturl: [URL](https://tu.servidor.twtxt)
 
 Uso Básico <a name="uso-básico"></a>
 
-bash
 
 # Iniciar la aplicación
 
+```bash
 python3 twtxt_tui.py
+```
 
 Atajos principales:
 
@@ -93,38 +98,39 @@ Solución de Problemas <a name="solución-de-problemas"></a>
 
 Error: "twtxt no está instalado"
 
-bash
+```bash
 
 python3 -m pip install --upgrade twtxt
+```
 
 Error: "Configuración no encontrada"
 
-bash
+```bash
 
 twtxt config
+```
 
 Los tweets no se actualizan
 
-bash
 
 # Forzar actualización manual
+```bash
 
 twtxt timeline
+```
 
-Problemas con Textual
-
-bash
 
 # Actualizar framework
 
+Problemas con Textual
+```bash
 python3 -m pip install --upgrade textual
+```
 
-Personalización <a name="personalización"></a>
 
 Notas
 
     Versión mínima testeada: Python 3.8
     Compatible con twtxt v1.3.0+
     Proyecto comunitario - ¡Contribuciones bienvenidas!
-¡Listo! Un cliente twtxt completo con interfaz TUI. 🎉
 
