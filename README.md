@@ -52,21 +52,10 @@ twtxt config
 
 ### 3. Descargar la aplicación
 
-Crea dos archivos en el directorio:
+bash
+git clone https://github.com/dev1lsconf/twtxt_tui.git
 
-twtxt_tui.py:
-
-python
-
-# [Pegar aquí el código Python completo proporcionado anteriormente]
-
-twtxt_tui.tcss:
-
-css
-
-/* [Pegar aquí el contenido CSS proporcionado anteriormente] */
-
-Configuración Inicial <a name="configuración-inicial"></a>
+Configuración Inicial
 
     Editar configuración de twtxt:
 bash
