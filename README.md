@@ -14,13 +14,11 @@ Tabla de Contenidos
     Configuración Inicial
     Uso Básico
     Solución de Problemas
-    Personalización
-Requisitos <a name="requisitos"></a>
 
     Python 3.8 o superior
     pip (gestor de paquetes Python)
     Terminal compatible con TUI (Terminal, Kitty, Alacritty, etc.)
-Instalación <a name="instalación"></a>
+
 
 ## 1. Instalar dependencias
 
@@ -63,7 +61,7 @@ Editar configuración de twtxt:
 
 ```bash
 
-nano ~/.config/twtxt/config.yml
+nano ~/.config/twtxt/config
 
 ```
 
