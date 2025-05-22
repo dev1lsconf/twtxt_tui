@@ -73,10 +73,8 @@ nick: tu_usuario
 
 twturl: [URL](https://tu.servidor.twtxt)
 
-Uso Básico <a name="uso-básico"></a>
 
-
-# Iniciar la aplicación
+# Uso Basico
 
 ```bash
 python3 twtxt_tui.py
