@@ -37,10 +37,6 @@ py -m pip install twtxt textual
 
 ```bash
 
-# Crear directorio para la aplicación
-
-mkdir ~/twtxt-tui && cd ~/twtxt-tui
-
 # Configurar twtxt (sigue las instrucciones)
 
 twtxt config
