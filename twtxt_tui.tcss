@@ -1,0 +1,55 @@
+Screen {
+    layout: vertical;
+    align: center middle;
+}
+
+TimelineContainer {
+    width: 80%;
+    height: 1fr;
+    margin: 2 0;
+    padding: 1;
+    border: round $primary;
+    background: $surface;
+}
+
+TimelineContainer:focus {
+    border: double $accent;
+}
+
+#timeline {
+    width: 100%;
+    padding: 1;
+    content-align: left middle;
+}
+
+.dialog {
+    width: 60%;
+    height: auto;
+    margin: 2 0;
+    border: round $primary;
+    padding: 2;
+    background: $surface;
+    align: center middle;
+}
+
+.dialog .prompt {
+    width: 100%;
+    content-align: center middle;
+    margin-bottom: 2;
+    text-style: bold;
+}
+
+Input {
+    width: 90%;
+    margin: 1 0;
+}
+
+Button {
+    width: 30%;
+    margin: 1 0;
+}
+
+Header, Footer {
+    height: auto;
+    text-style: bold;
+}
