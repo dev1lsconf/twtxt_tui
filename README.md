@@ -55,7 +55,7 @@ git clone https://github.com/dev1lsconf/twtxt_tui.git
 
 ```
 
-Configuración Inicial
+### Configuración Inicial
 
 Editar configuración de twtxt:
 
@@ -90,7 +90,6 @@ Modo Vim:
 
 - j: Bajar
 - k: Subir
-Solución de Problemas <a name="solución-de-problemas"></a>
 
 Error: "twtxt no está instalado"
 
