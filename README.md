@@ -71,7 +71,7 @@ Asegurarte de tener al menos:
 
 nick: tu_usuario
 
-twturl: [URL](https://tu.servidor.twtxt)
+twturl: https://tu.servidor.twtxt
 
 
 # Uso Basico
