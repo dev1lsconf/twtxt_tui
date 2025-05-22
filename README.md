@@ -1,4 +1,5 @@
 
+![Logo de Python](https://imgur.com/a/Iz5oiRb "runing twtxt_tui")
 
 # Twtxt TUI
 Una aplicación TUI (Text-User Interface) en Python para el manejo gráfico de twtxt es una herramienta de software que permite a los usuarios interactuar con un servicio de microblogging descentralizado basado en archivos de texto plano.
